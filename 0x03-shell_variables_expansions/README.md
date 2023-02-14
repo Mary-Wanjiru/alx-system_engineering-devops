@@ -5,3 +5,4 @@
 4. printenv == Create a script that lists environment variables
 5. declare == Create a script that lists all local variables and environment variables, and functions
 6. BEST="School" == Create a script that creates a new local variable.
+7. export BEST="School" == Create a script that creates a new global variable.
