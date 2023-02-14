@@ -3,3 +3,4 @@
 2. PATH=$PATH:/action == Add /action to the PATH
 3. echo $PATH | tr ':' '\n' | wc -1 == script that counts the number of directories in the PATH
 4. printenv == Create a script that lists environment variables
+5. declare == Create a script that lists all local variables and environment variables, and functions
